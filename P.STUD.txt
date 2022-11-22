@@ -1,0 +1,19 @@
+//Read student details//
+
+sno=int(input("enter student no:"))
+name=input("enter the name of student:")
+g=input("enter the gender:")
+add=input("name of the city:")
+phno=int(input("enter mobile no:"))
+print("The details of students are:-")
+print("sno-",sno,"name-",name,"gender-",g,"address-",add,"mobile no-",phno)
+
+OUTPUT
+enter student no:32
+enter the name of student:reshma
+enter the gender:female
+name of the city:visakhapatnam
+enter mobile no:1234567898
+The details of students are:-
+sno- 32 name- reshma gender- female address- visakhapatnam mobile no- 1234567898
+> 
